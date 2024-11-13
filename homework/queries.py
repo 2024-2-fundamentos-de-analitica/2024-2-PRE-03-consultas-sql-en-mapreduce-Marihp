@@ -1,4 +1,4 @@
-from mapreduce import run_mapreduce_job
+from .mapreduce import run_mapreduce_job
 
 #
 # Columns:
